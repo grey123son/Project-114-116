@@ -1,0 +1,23 @@
+body{
+    background:linear-gradient(#FFFFE0 0%, #D8BFD8 25%,  #008B8B 50%,  #ADD8E6 75%,  #4169E1 100%);
+}
+#tint{
+    width: 100px;
+    height: 40px;
+    margin: 5px;
+    background-color: 	#FAEBD7;
+    border-color: OldLace;
+    border-radius: 20px;
+    border-width: 5px;
+}
+input{
+    height: 30px;
+    background-color: #FAEBD7;
+    border-color: oldlace;
+}
+#photo{
+    width: 150px;
+    height: 30px;
+    border-radius: 40px;
+    border-color: #FFE4E1;
+}
